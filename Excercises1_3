@@ -1,0 +1,5 @@
+[marky@fedora ~]$ sudo docker exec -it goofy_babbage bash
+root@4ee90d9f60ea:/usr/src/app# tail -f ./text.log
+2022-03-06 17:10:12 +0000 UTC
+2022-03-06 17:10:14 +0000 UTC
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
